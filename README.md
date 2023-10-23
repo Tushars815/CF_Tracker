@@ -1,0 +1,1 @@
+Users can input a Codeforces handle, and the app retrieves info from Codeforces API and visualizes key performance metrics .
