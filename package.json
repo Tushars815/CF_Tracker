@@ -1,8 +1,8 @@
 {
   "name": "codeforces-diary",
   "version": "1.0.1",
-  "author": "Rishabh Malhotra",
-  "license": "MIT",
+  "author": "Tushar Sharma",
+  "license": "",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.2",
